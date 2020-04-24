@@ -9,7 +9,7 @@
     
 * **Parallel Network Calls:
     * [Activity Code](app/src/main/java/com/example/ajay/corotines/base/retrofit/parallel/ParallelNetworkCallsActivity.kt)
-    * [ViewModel Code](app/src/main/java/com/example/ajay/corotines/base/retrofit/parallel/ParallelNetworkCallsViewModel.kt)  
+    * [ViewModel Code](app/src/main/java/com/example/ajay/corotines/base/retrofit/parallel/ParallelNetworkCallsViewModel.kt)
     
 * **Room Database Operation:
     * [Activity Code](app/src/main/java/com/example/ajay/corotines/base/room/RoomDBActivity.kt)
