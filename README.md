@@ -4,8 +4,8 @@
     * [ViewModel Code](app/src/main/java/com/example/ajay/corotines/base/retrofit/single/SingleNetworkCallViewModel.kt)
  
 * **Series Network Calls:
-    * [Activity Code](app/src/main/java/com/example/ajay/corotines/base/retrofit/single/SeriesNetworkCallsActivity.kt)
-    * [ViewModel Code](app/src/main/java/com/example/ajay/corotines/base/retrofit/single/SeriesNetworkCallsViewModel.kt)
+    * [Activity Code](app/src/main/java/com/example/ajay/corotines/base/retrofit/series/SeriesNetworkCallsActivity.kt)
+    * [ViewModel Code](app/src/main/java/com/example/ajay/corotines/base/retrofit/series/SeriesNetworkCallsViewModel.kt)
     
 * **Parallel Network Calls:
     * [Activity Code](app/src/main/java/com/example/ajay/corotines/base/retrofit/parallel/ParallelNetworkCallsActivity.kt)
